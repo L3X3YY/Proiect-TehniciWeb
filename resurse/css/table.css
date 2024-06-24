@@ -1,0 +1,47 @@
+#table {
+  display: flex;
+  flex-direction: column;
+}
+
+table{
+  border: 5px inset var(--headercolor);
+  border-collapse: collapse;
+  margin-bottom: 20px; /* Space for the caption */
+}
+
+th, td {
+    padding: 0.2rem;
+    text-align: left;
+    text-align: center;
+
+    min-width: 100px;
+  }
+  tr:nth-child(even) + tr{
+    border-top: 1px solid var(--highlight2);
+  }
+
+  tr:nth-child(odd) + tr{
+    border-top: 1px solid var(--highlight3);
+  }
+
+  #t01 th {
+    background-color: var(--headercolor);
+    color: white;
+  }
+
+
+
+tr {
+  transition: outline 0.5s ease-in-out;
+}
+
+tr:hover {
+  outline: 5px solid rgba(108,128,154,.7);
+}
+
+caption {
+  caption-side: bottom;
+  font-size: 1.5em;
+  padding-top: 10px;
+  color: #333;
+}

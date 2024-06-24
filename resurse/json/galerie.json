@@ -1,0 +1,88 @@
+{
+    "cale_galerie": "resurse/imagini/galerie",
+    "imagini": [
+      {
+        "cale_fisier": "1.jpg",
+        "titlu":"Arma 1",
+        "alt": "Arma 1",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "2.jpg",
+        "titlu":"Arma 2",
+        "alt": "Arma 2",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "3.jpg",
+        "titlu":"Arma 3",
+        "alt": "Arma 3",
+        "luni":["ianuarie","februarie","decembrie"]
+      },
+      {
+        "cale_fisier": "4.jpg",
+        "titlu":"Arma 4",
+        "alt": "Arma 4",
+        "luni":["ianuarie","februarie","iulie"]
+      },
+      {
+        "cale_fisier": "5.jpg",
+        "titlu":"Arma 5",
+        "alt": "Arma 5",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "7.jpg",
+        "titlu":"Arma 7",
+        "alt": "Arma 7",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "8.jpg",
+        "titlu":"Arma 8",
+        "alt": "Arma 8",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "9.jpg",
+        "titlu":"Arma 9",
+        "alt": "Arma 9",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "10.jpg",
+        "titlu":"Arma 10",
+        "alt": "Arma 10",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "12.jpg",
+        "titlu":"Arma 12",
+        "alt": "Arma 12",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "13.jpg",
+        "titlu":"Arma 13",
+        "alt": "Arma 13",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "14.jpg",
+        "titlu":"Arma 14",
+        "alt": "Arma 14",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "15.jpg",
+        "titlu":"Arma 15",
+        "alt": "Arma 15",
+        "luni":["ianuarie","februarie","iunie"]
+      },
+      {
+        "cale_fisier": "16.jpg",
+        "titlu":"Arma 16",
+        "alt": "Arma 16",
+        "luni":["ianuarie","februarie","iunie"]
+      }]
+}

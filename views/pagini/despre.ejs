@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include("../fragmente/head") %>
+    <link rel="stylesheet" type="text/css" href="resurse/css/despre.css" />
+  </head>
+  <body>
+    <header>
+        <%- include("../fragmente/header") %>
+    </header>
+    
+    <main>
+        <hr class="efect-css-stilizare-hr">
+        <div class="video">
+          <video
+            width="100%"
+            height="30%"
+            controls="controls"
+            poster="https://m.media-amazon.com/images/I/711iHN6w-1L._AC_UF894,1000_QL80_DpWeblab_.jpg"
+            preload="metadata"
+          >
+            <source src="resurse/video/video.mp4" type="video/mp4" />
+            <source src="resurse/video/video.webm" type="video/webm" />
+            <track
+              default
+              src="resurse/video/vtt/ro.vtt"
+              kind="captions"
+              srclang="ro"
+              label="Română"
+            />
+            <track
+              src="resurse/video/vtt/en.vtt"
+              kind="captions"
+              srclang="en"
+              label="English"
+            />
+            Browserul dumneavoastră nu suportă tagul video.
+          </video>
+        </div>
+
+        <div id="text">Video
+            <div id="text-reflectat">Video</div>
+          </div>
+          
+    </main>
+  </body>
+  <footer>
+    <%- include("../fragmente/footer") %>
+  </footer>
+  </html>
